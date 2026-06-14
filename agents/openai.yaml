@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "小说润色"
+  short_description: "分析网文类型，修复逻辑bug，去AI味，增强吸引力，调整字数"
+  brand_color: "#8B5CF6"
+  default_prompt: "使用 $novel-polishing 润色以下网络小说章节。"
+
+policy:
+  allow_implicit_invocation: true
